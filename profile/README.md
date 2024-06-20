@@ -11,7 +11,7 @@ We build open-source and closed-source software and we provide software developm
 - [wharf](https://github.com/Makepad-fr/wharf)
 - [semver](https://github.com/Makepad-fr/semver)
 - [sfp](https://github.com/Makepad-fr/sfp)
-- [go-analytics-middleware](https://github.com/Makepad-fr/go-analytics-middleware)
+- [gam](https://github.com/Makepad-fr/gam)
 - [go-opencv-docker](https://github.com/Makepad-fr/go-opencv-docker)
 - [weekly-calendar](https://github.com/Makepad-fr/weekly-calendar)
 - [go-gelato](https://github.com/Makepad-fr/go-gelato)
