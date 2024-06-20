@@ -1,10 +1,10 @@
 # Welcome to Makepad's GitHub profile 👋🏼
 
-We are a software development company based in Bordeaux, France . 
+We are a software development company based in Bordeaux, France 🍷🇫🇷. 
 
 We build open-source and closed-source software and we provide software development consulting services for our customers.
 
-## Our open-source projects
+## Our open-source projects
 
 - [fbjs](github.com/Makepad-fr/fbjs)
 - [vif.io](github.com/Makepadf-fr/vif.io)
