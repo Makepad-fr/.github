@@ -14,6 +14,7 @@ We build open-source and closed-source software and we provide software developm
 - [go-analytics-middleware](github.com/Makepad-fr/go-analytics-middleware)
 - [go-opencv-docker](github.com/Makepad-fr/go-opencv-docker)
 - [weekly-calendar](github.com/Makepad-fr/weekly-calendar)
+- [go-gelato](github.com/Makepad-fr/go-gelato)
 
 ## Our clsoed-source projects
 
