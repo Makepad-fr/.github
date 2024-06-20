@@ -6,15 +6,15 @@ We build open-source and closed-source software and we provide software developm
 
 ## Our open-source projects
 
-- [fbjs](github.com/Makepad-fr/fbjs)
-- [vif.io](github.com/Makepadf-fr/vif.io)
-- [wharf](github.com/Makepad-fr/wharf)
-- [semver](github.com/Makepad-fr/semver)
-- [sfp](github.com/Makepad-fr/sfp)
-- [go-analytics-middleware](github.com/Makepad-fr/go-analytics-middleware)
-- [go-opencv-docker](github.com/Makepad-fr/go-opencv-docker)
-- [weekly-calendar](github.com/Makepad-fr/weekly-calendar)
-- [go-gelato](github.com/Makepad-fr/go-gelato)
+- [fbjs](https://github.com/Makepad-fr/fbjs)
+- [vif.io](https://github.com/Makepadf-fr/vif.io)
+- [wharf](https://github.com/Makepad-fr/wharf)
+- [semver](https://github.com/Makepad-fr/semver)
+- [sfp](https://github.com/Makepad-fr/sfp)
+- [go-analytics-middleware](https://github.com/Makepad-fr/go-analytics-middleware)
+- [go-opencv-docker](https://github.com/Makepad-fr/go-opencv-docker)
+- [weekly-calendar](https://github.com/Makepad-fr/weekly-calendar)
+- [go-gelato](https://github.com/Makepad-fr/go-gelato)
 
 ## Our clsoed-source projects
 
