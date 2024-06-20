@@ -17,7 +17,7 @@ We build open-source and closed-source software and we provide software developm
 - [go-gelato](https://github.com/Makepad-fr/go-gelato)
 - [changelog](https://github.com/Makepad-fr/changelog)
 
-## Our clsoed-source projects
+## Our closed-source projects
 
 - [Vestiaire](https://vestiaire.io)
 
