@@ -23,8 +23,8 @@ We build open-source and closed-source software and we provide software developm
 
 We are a small team of two software engineers
 
-- @idilsaglam
-- @kaanyagci
+- [Idil Saglam](https://linkedin.com/in/idilsaglam)
+- [Kaan Yagci](https://linkedin.com/in/kaanyagci)
 
 ## Contact us
 
