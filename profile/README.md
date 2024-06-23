@@ -16,6 +16,7 @@ We build open-source and closed-source software and we provide software developm
 - [weekly-calendar](https://github.com/Makepad-fr/weekly-calendar)
 - [go-gelato](https://github.com/Makepad-fr/go-gelato)
 - [changelog](https://github.com/Makepad-fr/changelog)
+- [setup-yq-action](https://github.com/Makepad-fr/setup-yq-action)
 
 ## Our closed-source projects
 
